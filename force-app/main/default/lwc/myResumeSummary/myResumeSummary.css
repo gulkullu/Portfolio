@@ -1,0 +1,16 @@
+.section_heading{
+    font-size: 1.25rem;
+    color: #0b6582;
+    text-align: center;
+}
+
+.summary_list li:before {
+    content: "\2724";
+    position: absolute;
+    left: 0;
+}
+.font16{
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: justify;
+}
