@@ -1,0 +1,58 @@
+{
+  "type" : "sfdc_cms__view",
+  "title" : "Home",
+  "contentBody" : {
+    "component" : {
+      "children" : [ {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "sectionConfig" : "{\"UUID\":\"52169ccf-a6f8-4cb7-8989-e615aa420572\",\"columns\":[{\"UUID\":\"2b3d6af0-a1a7-45a6-9834-5a36a25ed0b3\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+          },
+          "children" : [ {
+            "children" : [ {
+              "attributes" : { },
+              "definition" : "c:myResumeContainer",
+              "id" : "db91f4e8-5db1-493f-b727-73b11b2b7bf5",
+              "type" : "component"
+            } ],
+            "id" : "2b3d6af0-a1a7-45a6-9834-5a36a25ed0b3",
+            "name" : "col1",
+            "title" : "Column 1",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "52169ccf-a6f8-4cb7-8989-e615aa420572",
+          "type" : "component"
+        } ],
+        "id" : "209108cc-4aba-41f0-a31d-7dee9a94bd64",
+        "name" : "content",
+        "title" : "Content",
+        "type" : "region"
+      }, {
+        "children" : [ {
+          "attributes" : {
+            "customHeadTags" : "",
+            "description" : "",
+            "pageTitle" : "Home",
+            "recordId" : "{!recordId}"
+          },
+          "definition" : "community_builder:seoAssistant",
+          "id" : "fe1c9f5a-b967-4996-9fc0-0778d2a5cdba",
+          "type" : "component"
+        } ],
+        "id" : "ede84adc-24e6-4aa4-affb-e6acb5e41049",
+        "name" : "sfdcHiddenRegion",
+        "title" : "sfdcHiddenRegion",
+        "type" : "region"
+      } ],
+      "definition" : "community_layout:sldsFlexibleLayout",
+      "id" : "01215ce6-8b7a-4307-9dd9-7848a2fc4c45",
+      "type" : "component"
+    },
+    "dataProviders" : [ ],
+    "themeLayoutType" : "Inner",
+    "viewType" : "home"
+  }
+}
