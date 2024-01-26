@@ -20,7 +20,7 @@
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
                 <groupingSortProperties/>
-                <report>prm_channel_reports_folder/prm_channel_sales_reports_folder/prm_lead_conversion</report>
+                <report>prm_channel_sales_reports_folder/prm_lead_conversion</report>
                 <showPercentage>false</showPercentage>
                 <showPicturesOnCharts>false</showPicturesOnCharts>
                 <showValues>false</showValues>
@@ -43,7 +43,7 @@
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
                 <groupingSortProperties/>
-                <report>prm_channel_reports_folder/prm_channel_sales_reports_folder/prm_open_opportunity_by_partner</report>
+                <report>prm_channel_sales_reports_folder/prm_open_opportunity_by_partner</report>
                 <showPercentage>false</showPercentage>
                 <showPicturesOnCharts>false</showPicturesOnCharts>
                 <showValues>false</showValues>
@@ -66,7 +66,7 @@
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
                 <groupingSortProperties/>
-                <report>prm_channel_reports_folder/prm_channel_sales_reports_folder/prm_open_opportunity_by_stage</report>
+                <report>prm_channel_sales_reports_folder/prm_open_opportunity_by_stage</report>
                 <showPercentage>false</showPercentage>
                 <showPicturesOnCharts>false</showPicturesOnCharts>
                 <showValues>false</showValues>
@@ -89,7 +89,7 @@
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
                 <groupingSortProperties/>
-                <report>prm_channel_reports_folder/prm_channel_sales_reports_folder/prm_revenue_closed</report>
+                <report>prm_channel_sales_reports_folder/prm_revenue_closed</report>
                 <showPercentage>false</showPercentage>
                 <showPicturesOnCharts>false</showPicturesOnCharts>
                 <showValues>false</showValues>
@@ -145,7 +145,7 @@
                     <hideChatterPhotos>true</hideChatterPhotos>
                 </flexComponentProperties>
                 <groupingSortProperties/>
-                <report>prm_channel_reports_folder/prm_channel_sales_reports_folder/prm_opportunity_by_amount</report>
+                <report>prm_channel_sales_reports_folder/prm_opportunity_by_amount</report>
                 <title>Top Opportunities</title>
             </dashboardComponent>
             <rowIndex>8</rowIndex>

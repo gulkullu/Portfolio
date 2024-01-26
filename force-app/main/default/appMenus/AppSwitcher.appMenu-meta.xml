@@ -64,4 +64,8 @@
         <name>Resume</name>
         <type>Network</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>GUL KULLU</name>
+        <type>Network</type>
+    </appMenuItems>
 </AppMenu>
