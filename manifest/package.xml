@@ -1,36 +1,277 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>*</members>
+        <members>ChangePasswordController</members>
+        <members>ChangePasswordControllerTest</members>
+        <members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
+        <members>CommunitiesLoginControllerTest</members>
+        <members>CommunitiesSelfRegConfirmController</members>
+        <members>CommunitiesSelfRegConfirmControllerTest</members>
+        <members>CommunitiesSelfRegController</members>
+        <members>CommunitiesSelfRegControllerTest</members>
+        <members>ForgotPasswordController</members>
+        <members>ForgotPasswordControllerTest</members>
+        <members>LightningForgotPasswordController</members>
+        <members>LightningForgotPasswordControllerTest</members>
+        <members>LightningLoginFormController</members>
+        <members>LightningLoginFormControllerTest</members>
+        <members>LightningSelfRegisterController</members>
+        <members>LightningSelfRegisterControllerTest</members>
+        <members>MicrobatchSelfRegController</members>
+        <members>MicrobatchSelfRegControllerTest</members>
+        <members>MyProfilePageController</members>
+        <members>MyProfilePageControllerTest</members>
+        <members>SiteLoginController</members>
+        <members>SiteLoginControllerTest</members>
+        <members>SiteRegisterController</members>
+        <members>SiteRegisterControllerTest</members>
         <name>ApexClass</name>
     </types>
     <types>
-        <members>*</members>
+        <members>Default1</members>
+        <members>Default</members>
+        <name>Audience</name>
+    </types>
+    <types>
+        <members>SiteFooter</members>
+        <members>SiteHeader</members>
+        <members>SiteLogin</members>
+        <members>SitePoweredBy</members>
         <name>ApexComponent</name>
     </types>
     <types>
-        <members>*</members>
+        <members>AnswersHome</members>
+        <members>BandwidthExceeded</members>
+        <members>ChangePassword</members>
+        <members>CommunitiesLanding</members>
+        <members>CommunitiesLogin</members>
+        <members>CommunitiesSelfReg</members>
+        <members>CommunitiesSelfRegConfirm</members>
+        <members>CommunitiesTemplate</members>
+        <members>Exception</members>
+        <members>FileNotFound</members>
+        <members>ForgotPassword</members>
+        <members>ForgotPasswordConfirm</members>
+        <members>IdeasHome</members>
+        <members>InMaintenance</members>
+        <members>MicrobatchSelfReg</members>
+        <members>MyProfilePage</members>
+        <members>SiteLogin</members>
+        <members>SiteRegister</members>
+        <members>SiteRegisterConfirm</members>
+        <members>SiteTemplate</members>
+        <members>StdExceptionTemplate</members>
+        <members>Unauthorized</members>
+        <members>UnderConstruction</members>
         <name>ApexPage</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexTestSuite</name>
+        <members>Default</members>
+        <members>Default1</members>
+        <name>Audience</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>*</members>
+        <members>forgotPassword</members>
+        <members>loginForm</members>
+        <members>selfRegister</members>
+        <members>setExpId</members>
+        <members>setStartUrl</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
-        <members>*</members>
+        <members>Internal Zone</members>
+        <name>Community</name>
+    </types>
+    <types>
+        <members>Balkesir_niversitesi_logo</members>
+        <members>IMG_0798</members>
+        <members>My_Portfolio</members>
+        <members>SFCertified_PlatformAppBuilder</members>
+        <members>Screenshot_20230930_221424</members>
+        <members>Screenshot_20231026_165035</members>
+        <members>Screenshot_20231114_210930</members>
+        <members>Screenshot_20231114_210944</members>
+        <members>Screenshot_20231114_211036</members>
+        <members>Screenshot_20231114_211805</members>
+        <members>Screenshot_20231114_213228</members>
+        <members>Screenshot_20231114_213603</members>
+        <members>Screenshot_20231114_2136031</members>
+        <members>Screenshot_20231114_2136032</members>
+        <members>Screenshot_20240117_222826</members>
+        <members>Screenshot_20240117_222850</members>
+        <members>Screenshot_20240117_222908</members>
+        <members>Screenshot_20240120_131509</members>
+        <members>Screenshot_20240120_134337</members>
+        <members>Screenshot_20240126_113029</members>
+        <members>Screenshot_20240126_115056</members>
+        <members>Screenshot_20240126_152251</members>
+        <members>Screenshot_20240126_152801</members>
+        <members>WhatsApp_Image_20240120_at_140714_7</members>
+        <members>X1</members>
+        <members>X1684655760070</members>
+        <members>X1684655760071</members>
+        <members>X202103_Badge_SFCertified_Administra</members>
+        <members>X3158180</members>
+        <members>X31581801</members>
+        <members>desktopwallpapertwocolorbabyblueand</members>
+        <members>download</members>
+        <members>download_1</members>
+        <members>download_2</members>
+        <members>image_3</members>
+        <members>ranger</members>
+        <members>s</members>
+        <members>triforcia_cover</members>
+        <members>vecteezy_linkedinlogopnglinkedinico</members>
+        <name>ContentAsset</name>
+    </types>
+    <types>
+        <members>GUL_KULLU</members>
+        <members>Resume</members>
+        <name>CustomSite</name>
+    </types>
+    <types>
+        <members>site/Resume1.sfdc_cms__appPage/mainAppPage</members>
+        <members>site/Resume1.sfdc_cms__brandingSet/Build_Your_Own_LWR</members>
+        <members>site/Resume1.sfdc_cms__languageSettings/languages</members>
+        <members>site/Resume1.sfdc_cms__mobilePublisherConfig/mobilePublisherConfig</members>
+        <members>site/Resume1.sfdc_cms__route/Check_Password</members>
+        <members>site/Resume1.sfdc_cms__route/Error</members>
+        <members>site/Resume1.sfdc_cms__route/Forgot_Password</members>
+        <members>site/Resume1.sfdc_cms__route/Home</members>
+        <members>site/Resume1.sfdc_cms__route/Login</members>
+        <members>site/Resume1.sfdc_cms__route/News_Detail__c</members>
+        <members>site/Resume1.sfdc_cms__route/Register</members>
+        <members>site/Resume1.sfdc_cms__route/Service_Not_Available</members>
+        <members>site/Resume1.sfdc_cms__route/Too_Many_Requests</members>
+        <members>site/Resume1.sfdc_cms__site/Resume1</members>
+        <members>site/Resume1.sfdc_cms__styles/print_css</members>
+        <members>site/Resume1.sfdc_cms__styles/styles_css</members>
+        <members>site/Resume1.sfdc_cms__theme/Build_Your_Own_LWR</members>
+        <members>site/Resume1.sfdc_cms__themeLayout/scopedHeaderAndFooter</members>
+        <members>site/Resume1.sfdc_cms__themeLayout/snaThemeLayout</members>
+        <members>site/Resume1.sfdc_cms__view/checkPasswordResetEmail</members>
+        <members>site/Resume1.sfdc_cms__view/error</members>
+        <members>site/Resume1.sfdc_cms__view/forgotPassword</members>
+        <members>site/Resume1.sfdc_cms__view/home</members>
+        <members>site/Resume1.sfdc_cms__view/login</members>
+        <members>site/Resume1.sfdc_cms__view/newsDetail</members>
+        <members>site/Resume1.sfdc_cms__view/register</members>
+        <members>site/Resume1.sfdc_cms__view/serviceNotAvailable</members>
+        <members>site/Resume1.sfdc_cms__view/tooManyRequests</members>
+        <name>DigitalExperience</name>
+    </types>
+    <types>
+        <members>site/Resume1</members>
+        <name>DigitalExperienceBundle</name>
+    </types>
+    <types>
+        <members>Resume1</members>
+        <name>DigitalExperienceConfig</name>
+    </types>
+    <types>
+        <members>Guess_Book</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Guess_Book</members>
+        <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>DE Default</members>
+        <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>IframeWhiteListUrlSettings</members>
+        <name>IframeWhiteListUrlSettings</name>
+    </types>
+    <types>
+        <members>GUL KULLU.Banned</members>
+        <members>Resume.Banned</members>
+        <name>KeywordList</name>
+    </types>
+    <types>
+        <members>myResumeContainer</members>
+        <members>myResumeEducation</members>
+        <members>myResumeExperience</members>
+        <members>myResumeExtra</members>
+        <members>myResumeHeader</members>
+        <members>myResumeProgressBar</members>
+        <members>myResumeSkills</members>
+        <members>myResumeSummary</members>
+        <members>myResumeTags</members>
         <name>LightningComponentBundle</name>
     </types>
     <types>
-        <members>*</members>
+        <members>GUL KULLU</members>
+        <members>Resume</members>
+        <name>ManagedTopics</name>
+    </types>
+    <types>
+        <members>GUL KULLU.Block_banned_keywords</members>
+        <members>GUL KULLU.Flag_banned</members>
+        <members>GUL KULLU.Freeze_for_frequent_posting</members>
+        <members>GUL KULLU.Replace_banned</members>
+        <members>GUL KULLU.Review_the_first_post</members>
+        <members>Resume.Block_banned_keywords</members>
+        <members>Resume.Flag_banned</members>
+        <members>Resume.Freeze_for_frequent_posting</members>
+        <members>Resume.Replace_banned</members>
+        <members>Resume.Review_the_first_post</members>
+        <name>ModerationRule</name>
+    </types>
+    <types>
+        <members>Default_User_Profile_Menu</members>
+        <members>SFDC_Default_Navigation_GUL_KULLU</members>
+        <members>SFDC_Default_Navigation_Resume</members>
+        <name>NavigationMenu</name>
+    </types>
+    <types>
+        <members>GUL KULLU</members>
+        <members>Resume</members>
+        <name>Network</name>
+    </types>
+    <types>
+        <members>cbGUL_KULLU</members>
+        <members>cbResume</members>
+        <name>NetworkBranding</name>
+    </types>
+    <types>
+        <members>NotificationTypeConfig</members>
+        <name>NotificationTypeConfig</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>ApexDevNet</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>Communities</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>GUL_KULLU1</members>
+        <members>Resume1</members>
+        <name>SiteDotCom</name>
+    </types>
+    <types>
+        <members>SOCIAL</members>
+        <members>SiteSamples</members>
+        <members>my_photo</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>GUL KULLU.Customer_Members</members>
+        <members>GUL KULLU.Members_without_contribution</members>
+        <members>GUL KULLU.Partner_and_Customer_members</members>
+        <members>Resume.Customer_Members</members>
+        <members>Resume.Members_without_contribution</members>
+        <members>Resume.Partner_and_Customer_members</members>
+        <name>UserCriteria</name>
     </types>
     <version>59.0</version>
 </Package>

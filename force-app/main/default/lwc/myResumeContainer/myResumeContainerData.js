@@ -25,8 +25,8 @@ export const SOCIAL_LINKS=[
 ]
 
 export const USER_DETAILS={
-    NAME: 'GUL KULLU',
-    ROLE: 'Salesforce Developer & Administrator',
+    NAME: 'JOE DOE',
+    ROLE: 'Salesforce Developer',
     EMAIL:'wguleren@gmail.com',
     ADDRESS: 'Buffalo, New York'
 }
@@ -175,17 +175,14 @@ export const EDUCATION_DATA={
                         { NAME: " Sales Cloud", LEVEL: "80" },
                         { NAME: "Service Cloud", LEVEL: "75" },
                         { NAME: "Experience (Community) Cloud", LEVEL: "89" },
-                        { NAME: "Jira", LEVEL: "90" },
                     ],
                 },
                 {
                     HEADING: "Languages",
                     SKILLS_LIST: [
                         { NAME: "Apex", LEVEL: "80" },
-                        { NAME: "SOQL", LEVEL: "95" },
-                        { NAME: "SOSL", LEVEL: "98" },
-                        { NAME: "JavaScript", LEVEL: "98" },
-                        { NAME: "CSS", LEVEL: "98" },
+                        { NAME: "SOQL / SOSL", LEVEL: "95" },
+                        { NAME: "HTML -CSS - JavaScript", LEVEL: "98" },
                         { NAME: "SQL", LEVEL: "98" },
                         
                     ],
@@ -203,7 +200,6 @@ export const EDUCATION_DATA={
                     SKILLS_LIST: [
                         { NAME: "Salesforce Flows", LEVEL: "50" },
                         { NAME: " Approval Process", LEVEL: "75" },
-                        { NAME: " Validation Rules", LEVEL: "75" },
                     ],
                 },
 
@@ -224,8 +220,7 @@ export const EDUCATION_DATA={
                 {
                     HEADING: "APIs",
                     SKILLS_LIST: [
-                        { NAME: " REST ", LEVEL: "50" },
-                        { NAME: " SOAP ", LEVEL: "75" },
+                        { NAME: " REST - SOAP ", LEVEL: "50" },
                         { NAME: " WorkBench ", LEVEL: "75" },
                         { NAME: " Postman ", LEVEL: "75" },
                     ],
