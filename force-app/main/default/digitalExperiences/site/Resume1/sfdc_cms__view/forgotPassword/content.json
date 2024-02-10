@@ -8,7 +8,7 @@
           "attributes" : {
             "backgroundImageConfig" : "",
             "backgroundImageOverlay" : "rgba(0,0,0,0)",
-            "sectionConfig" : "{\"UUID\":\"670c8fe7-2e10-4ab3-860c-e6a1efd332e8\",\"columns\":[{\"UUID\":\"52f02062-7995-4483-926e-5e2b0aed69eb\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+            "sectionConfig" : "{\"UUID\":\"80250c5f-4f38-4574-9f98-4320a7116755\",\"columns\":[{\"UUID\":\"52ceebee-3c4d-409e-abcd-e73a326525cf\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
           },
           "children" : [ {
             "children" : [ {
@@ -18,7 +18,7 @@
                 "logoWidth" : 250
               },
               "definition" : "dxp_content_layout:siteLogo",
-              "id" : "49526a30-39ec-4629-864d-5de6b83a313a",
+              "id" : "c2f83341-4a3e-4da2-844b-c5b30ed78f9f",
               "type" : "component"
             }, {
               "attributes" : {
@@ -30,19 +30,19 @@
                 "usernameLabel" : "Username"
               },
               "definition" : "community_login:forgotPassword",
-              "id" : "3a4235e5-6fe9-4e8c-aadc-da1814056fee",
+              "id" : "ca4acdb2-50af-45a1-aa97-40b3a5d21b6e",
               "type" : "component"
             } ],
-            "id" : "52f02062-7995-4483-926e-5e2b0aed69eb",
+            "id" : "52ceebee-3c4d-409e-abcd-e73a326525cf",
             "name" : "col1",
             "title" : "Column 1",
             "type" : "region"
           } ],
           "definition" : "community_layout:section",
-          "id" : "670c8fe7-2e10-4ab3-860c-e6a1efd332e8",
+          "id" : "80250c5f-4f38-4574-9f98-4320a7116755",
           "type" : "component"
         } ],
-        "id" : "b4373b2d-fdc3-4e50-b2cd-1235e85aece2",
+        "id" : "b933ba62-1492-408d-b5bd-6587dd684a5f",
         "name" : "content",
         "title" : "Content",
         "type" : "region"
@@ -55,16 +55,16 @@
             "recordId" : "{!recordId}"
           },
           "definition" : "community_builder:seoAssistant",
-          "id" : "da58f69f-9521-4c51-bb04-b3a37c5eb44a",
+          "id" : "786a98ca-0273-4a4e-8154-245b2372c269",
           "type" : "component"
         } ],
-        "id" : "e5f9e9a0-c0d6-499d-9c13-ecb6ae055584",
+        "id" : "ca37ef40-f2e3-43ae-b3be-709b3819ba59",
         "name" : "sfdcHiddenRegion",
         "title" : "sfdcHiddenRegion",
         "type" : "region"
       } ],
       "definition" : "community_layout:sldsFlexibleLayout",
-      "id" : "ea2974d4-0768-436b-9674-5ce75c0c8c07",
+      "id" : "28da3fc4-62d5-496d-983d-b684e435aead",
       "type" : "component"
     },
     "dataProviders" : [ ],

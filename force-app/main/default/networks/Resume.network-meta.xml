@@ -17,7 +17,7 @@
     <enableImageOptimizationCDN>false</enableImageOptimizationCDN>
     <enableInvitation>false</enableInvitation>
     <enableKnowledgeable>false</enableKnowledgeable>
-    <enableLWRExperienceConnectedApp>true</enableLWRExperienceConnectedApp>
+    <enableLWRExperienceConnectedApp>false</enableLWRExperienceConnectedApp>
     <enableMemberVisibility>false</enableMemberVisibility>
     <enableNicknameDisplay>true</enableNicknameDisplay>
     <enablePrivateMessages>false</enablePrivateMessages>

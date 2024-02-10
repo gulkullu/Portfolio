@@ -1,4 +1,4 @@
-import SOCIAL from '@salesforce/resourceUrl/social'
+import SOCIAL from '@salesforce/resourceUrl/SOCIAL'
 import my_photo from '@salesforce/resourceUrl/my_photo';
 export const PROFILE_IMAGE = my_photo
 
@@ -25,8 +25,8 @@ export const SOCIAL_LINKS=[
 ]
 
 export const USER_DETAILS={
-    NAME: 'JOE DOE',
-    ROLE: 'Salesforce Developer',
+    NAME: 'GUL KULLU',
+    ROLE: 'Salesforce Developer & Administrator',
     EMAIL:'wguleren@gmail.com',
     ADDRESS: 'Buffalo, New York'
 }
@@ -239,6 +239,3 @@ export const EDUCATION_DATA={
 
             ]
         }
-       
-       
-    
