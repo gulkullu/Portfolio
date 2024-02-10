@@ -8,25 +8,25 @@
           "attributes" : {
             "backgroundImageConfig" : "",
             "backgroundImageOverlay" : "rgba(0,0,0,0)",
-            "sectionConfig" : "{\"UUID\":\"52169ccf-a6f8-4cb7-8989-e615aa420572\",\"columns\":[{\"UUID\":\"2b3d6af0-a1a7-45a6-9834-5a36a25ed0b3\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+            "sectionConfig" : "{\"UUID\":\"bbc31a41-e2dc-48cb-906f-3a0210a974b2\",\"columns\":[{\"UUID\":\"0bfabcd0-178a-4c2a-a1ea-5faa250ab72c\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
           },
           "children" : [ {
             "children" : [ {
               "attributes" : { },
               "definition" : "c:myResumeContainer",
-              "id" : "db91f4e8-5db1-493f-b727-73b11b2b7bf5",
+              "id" : "4f3a4182-4d6e-44e1-982e-c196d756a96e",
               "type" : "component"
             } ],
-            "id" : "2b3d6af0-a1a7-45a6-9834-5a36a25ed0b3",
+            "id" : "0bfabcd0-178a-4c2a-a1ea-5faa250ab72c",
             "name" : "col1",
             "title" : "Column 1",
             "type" : "region"
           } ],
           "definition" : "community_layout:section",
-          "id" : "52169ccf-a6f8-4cb7-8989-e615aa420572",
+          "id" : "bbc31a41-e2dc-48cb-906f-3a0210a974b2",
           "type" : "component"
         } ],
-        "id" : "209108cc-4aba-41f0-a31d-7dee9a94bd64",
+        "id" : "fb868321-e96c-4a7d-bb4e-09daea9828b3",
         "name" : "content",
         "title" : "Content",
         "type" : "region"
@@ -39,16 +39,16 @@
             "recordId" : "{!recordId}"
           },
           "definition" : "community_builder:seoAssistant",
-          "id" : "fe1c9f5a-b967-4996-9fc0-0778d2a5cdba",
+          "id" : "2a22bb42-56af-4383-98e5-89e975e1bc9d",
           "type" : "component"
         } ],
-        "id" : "ede84adc-24e6-4aa4-affb-e6acb5e41049",
+        "id" : "dbf7cbee-a99d-4103-af72-65c30aaf348d",
         "name" : "sfdcHiddenRegion",
         "title" : "sfdcHiddenRegion",
         "type" : "region"
       } ],
       "definition" : "community_layout:sldsFlexibleLayout",
-      "id" : "01215ce6-8b7a-4307-9dd9-7848a2fc4c45",
+      "id" : "4e46b962-727c-4484-a0b0-76587dabb7d3",
       "type" : "component"
     },
     "dataProviders" : [ ],

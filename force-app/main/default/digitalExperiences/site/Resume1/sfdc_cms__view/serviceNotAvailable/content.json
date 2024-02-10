@@ -8,7 +8,7 @@
           "attributes" : {
             "backgroundImageConfig" : "",
             "backgroundImageOverlay" : "rgba(0,0,0,0)",
-            "sectionConfig" : "{\"UUID\":\"4a5f0e45-0bf1-4660-a520-186457a20c6c\",\"columns\":[{\"UUID\":\"ec46c9be-4124-4f2d-8367-0e369dd04c7b\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+            "sectionConfig" : "{\"UUID\":\"b9daa5ae-3db3-48de-9a90-5c8142349207\",\"columns\":[{\"UUID\":\"96dfaf0b-f756-4b56-a3a6-6f6d41669082\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
           },
           "children" : [ {
             "children" : [ {
@@ -16,25 +16,25 @@
                 "richTextValue" : "<div style=\"display: flex; align-items: center; flex-direction: column; margin: 60px 25px 40px 25px;\">\n\t<div style=\"background: url(assets/img/serviceNotAvailable.svg) center no-repeat !important; background-size: contain; height: 331px; width: 100%; max-width: 538px;\"></div>\n</div>\n<div style=\"margin: 0 25px; text-align: center;\">\n\t<h1><b style=\"font-size: 2em\">Looks like the site is temporarily unavailable</b></h1>\n\t<br/>\n\t<p><span style=\"font-size: 1.5em;\">Please try again in a bit.</span></p>\n</div>"
               },
               "definition" : "community_builder:htmlEditor",
-              "id" : "73bb9138-3709-49de-83f6-bae5eeff741a",
+              "id" : "4876e3db-cc83-493d-9e34-7c6f5fee10c2",
               "type" : "component"
             } ],
-            "id" : "ec46c9be-4124-4f2d-8367-0e369dd04c7b",
+            "id" : "96dfaf0b-f756-4b56-a3a6-6f6d41669082",
             "name" : "col1",
             "title" : "Column 1",
             "type" : "region"
           } ],
           "definition" : "community_layout:section",
-          "id" : "4a5f0e45-0bf1-4660-a520-186457a20c6c",
+          "id" : "b9daa5ae-3db3-48de-9a90-5c8142349207",
           "type" : "component"
         } ],
-        "id" : "428fd2fc-bb5e-4305-a36c-7da225c191dc",
+        "id" : "2d9ee69a-aa1a-4c0f-822b-c8a12c7d7b1d",
         "name" : "content",
         "title" : "Content",
         "type" : "region"
       } ],
       "definition" : "community_layout:sldsFlexibleLayout",
-      "id" : "773f0308-36d3-4553-91c7-6ba59e21bdf2",
+      "id" : "3ef01c03-a9d0-4871-b59e-32d5abad8821",
       "type" : "component"
     },
     "dataProviders" : [ ],
